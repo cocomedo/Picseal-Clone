@@ -49,5 +49,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['picseal'],
   },
-  // base: 'https://cocomedo.github.io/picseal/',
+  // base: 'https://cocomedo.github.io/Picseal-Clone/',
 })
